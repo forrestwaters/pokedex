@@ -1,0 +1,3 @@
+App component --> renders single pokedex
+
+pokedex is an array of pokecards
